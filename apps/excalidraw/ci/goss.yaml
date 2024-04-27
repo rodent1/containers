@@ -4,8 +4,8 @@ process:
   nginx:
     running: true
 port:
-  tcp:5000:
+  tcp:8080:
     listening: true
 http:
-  http://localhost:5000:
+  http://localhost:8080:
     status: 200
