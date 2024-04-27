@@ -9,3 +9,5 @@
   color: "f6412d"
 - name: hold
   color: "ee0701"
+- name: app/excalidraw
+  color: 0e8a16
