@@ -5,7 +5,7 @@
     "docker:enableMajor",
     ":dependencyDashboard",
     ":disableRateLimiting",
-    ":timezone(America/New_York)",
+    ":timezone(Europe/Oslo)",
     ":semanticCommits"
   ],
   "dependencyDashboardTitle": "Renovate Dashboard 🤖",
